@@ -1,4 +1,5 @@
 {
   "name": "Pre-Release Blink Integration",
-  "homeassistant": "2025.10.0"
+  "homeassistant": "2025.10.0",
+  "hacs": "2.0.0"
 }
