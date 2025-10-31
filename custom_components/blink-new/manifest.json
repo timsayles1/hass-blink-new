@@ -1,6 +1,6 @@
 {
   "domain": "blink",
-  "name": "Blink2",
+  "name": "Blink",
   "codeowners": [
     "@fronzbot",
     "@mkmer"
