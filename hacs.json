@@ -1,4 +1,4 @@
 {
-  "name": "Blink2",
-  "render_readme": true
+  "name": "Pre-Release Blink Integration",
+  "homeassistant": "2025.10.0"
 }
